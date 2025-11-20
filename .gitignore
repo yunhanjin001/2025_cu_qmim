@@ -1,2 +1,4 @@
 price_metrics.parquet
 factors_std.parquet
+data/df_beta.csv
+data/Dataset.xlsx
